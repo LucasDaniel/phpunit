@@ -1,0 +1,18 @@
+<phpunit
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.6/phpunit.xsd"
+        colors="true">
+    <testsuites>
+        <testsuite name="unit">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+    <logging>
+        <junit outputFile="Tests/Logs/junit.xml"/>
+        <teamcity outputFile="Tests/Logs/teamcity.txt"/>
+        <testdoxHtml outputFile="Tests/Logs/testdox.html"/>
+        <testdoxText outputFile="Tests/Logs/testdox.txt"/>
+        <testdoxXml outputFile="Tests/Logs/testdox.xml"/>
+        <text outputFile="Tests/Logs/logfile.txt"/>
+    </logging>
+</phpunit>
