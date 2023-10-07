@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.007721">
-    <testsuite name="unit" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.007721">
-      <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.007721">
-        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.004142">
-          <testcase name="testMaiorValor with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="45" assertions="1" time="0.004142"/>
+  <testsuite name="" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.008194">
+    <testsuite name="unit" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.008194">
+      <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" tests="4" assertions="7" errors="0" warnings="0" failures="0" skipped="0" time="0.008194">
+        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.004579">
+          <testcase name="testMaiorValor with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="45" assertions="1" time="0.004579"/>
         </testsuite>
-        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testMenorValor" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001339">
-          <testcase name="testMenorValor with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="58" assertions="1" time="0.001339"/>
+        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testMenorValor" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001317">
+          <testcase name="testMenorValor with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="58" assertions="1" time="0.001317"/>
         </testsuite>
-        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testTresMaioresValores" tests="1" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.001550">
-          <testcase name="testTresMaioresValores with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="71" assertions="4" time="0.001550"/>
+        <testsuite name="Alura\Leilao\Tests\Service\AvaliadorTest::testTresMaioresValores" tests="1" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.001569">
+          <testcase name="testTresMaioresValores with data set &quot;Leilão teste&quot;" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="71" assertions="4" time="0.001569"/>
         </testsuite>
-        <testcase name="testLeilaoSemLances" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="87" assertions="1" time="0.000689"/>
+        <testcase name="testLeilaoSemLances" class="Alura\Leilao\Tests\Service\AvaliadorTest" classname="Alura.Leilao.Tests.Service.AvaliadorTest" file="C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php" line="87" assertions="1" time="0.000728"/>
       </testsuite>
     </testsuite>
   </testsuite>
