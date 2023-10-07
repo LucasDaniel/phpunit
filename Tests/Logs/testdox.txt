@@ -1,0 +1,6 @@
+Avaliador (Alura\Leilao\Tests\Service\Avaliador)
+ [x] Maior valor with data set "Leilão teste"
+ [x] Menor valor with data set "Leilão teste"
+ [x] Tres maiores valores with data set "Leilão teste"
+ [x] Leilao sem lances
+

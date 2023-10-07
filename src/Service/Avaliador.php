@@ -3,10 +3,8 @@
 namespace Alura\Leilao\Service;
 
 use Alura\Leilao\Errors\LeilaoSemLancesException;
-use Alura\Leilao\Model\Leilao;
-use InterfaceAvaliador;
 
-class Avaliador implements InterfaceAvaliador
+class Avaliador
 {
 
     public function avalia($leilao): void {

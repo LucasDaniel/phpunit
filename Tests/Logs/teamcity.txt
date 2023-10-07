@@ -1,12 +1,38 @@
 
-##teamcity[testCount count='3' flowId='6564']
+##teamcity[testCount count='4' flowId='10048']
 
-##teamcity[testSuiteStarted name='unit' flowId='6564']
+##teamcity[testSuiteStarted name='unit' flowId='10048']
 
-##teamcity[testSuiteStarted name='Alura\Leilao\Tests\Service\AvaliadorTest' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest' flowId='6564']
+##teamcity[testSuiteStarted name='Alura\Leilao\Tests\Service\AvaliadorTest' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest' flowId='10048']
 
-##teamcity[testSuiteStarted name='testMaiorValor' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor' flowId='6564']
+##teamcity[testSuiteStarted name='testMaiorValor' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor' flowId='10048']
 
-##teamcity[testStarted name='Error' locationHint='php_qn://C:\MAMP\htdocs\phpunit\vendor\phpunit\phpunit\src\Framework\ErrorTestCase.php::\PHPUnit\Framework\ErrorTestCase::Error' flowId='6564']
+##teamcity[testStarted name='testMaiorValor with data set "Leilão teste"' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor with data set "Leilão teste"' flowId='10048']
 
-##teamcity[testFailed name='Error' message='The data provider specified for Alura\Leilao\Tests\Service\AvaliadorTest::testMaiorValor is invalid.|nError: Interface "InterfaceAvaliador" not found|nC:\MAMP\htdocs\phpunit\src\Service\Avaliador.php:9|nC:\MAMP\htdocs\phpunit\src\Service\Factory.php:13|nC:\MAMP\htdocs\phpunit\src\Model\Leilao.php:24|nC:\MAMP\htdocs\phpunit\src\Service\Factory.php:17|nC:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php:27|nC:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php:95|n' details=' ' duration='3' flowId='6564']
+##teamcity[testFinished name='testMaiorValor with data set "Leilão teste"' duration='107' flowId='10048']
+
+##teamcity[testSuiteFinished name='testMaiorValor' flowId='10048']
+
+##teamcity[testSuiteStarted name='testMenorValor' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testMenorValor' flowId='10048']
+
+##teamcity[testStarted name='testMenorValor with data set "Leilão teste"' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testMenorValor with data set "Leilão teste"' flowId='10048']
+
+##teamcity[testFinished name='testMenorValor with data set "Leilão teste"' duration='1' flowId='10048']
+
+##teamcity[testSuiteFinished name='testMenorValor' flowId='10048']
+
+##teamcity[testSuiteStarted name='testTresMaioresValores' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testTresMaioresValores' flowId='10048']
+
+##teamcity[testStarted name='testTresMaioresValores with data set "Leilão teste"' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testTresMaioresValores with data set "Leilão teste"' flowId='10048']
+
+##teamcity[testFinished name='testTresMaioresValores with data set "Leilão teste"' duration='2' flowId='10048']
+
+##teamcity[testSuiteFinished name='testTresMaioresValores' flowId='10048']
+
+##teamcity[testStarted name='testLeilaoSemLances' locationHint='php_qn://C:\MAMP\htdocs\phpunit\Tests\Service\AvaliadorTest.php::\Alura\Leilao\Tests\Service\AvaliadorTest::testLeilaoSemLances' flowId='10048']
+
+##teamcity[testFinished name='testLeilaoSemLances' duration='31' flowId='10048']
+
+##teamcity[testSuiteFinished name='Alura\Leilao\Tests\Service\AvaliadorTest' flowId='10048']
+
+##teamcity[testSuiteFinished name='unit' flowId='10048']
