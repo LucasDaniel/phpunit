@@ -2,6 +2,8 @@
 
 namespace Alura\Leilao\Model;
 
+use Alura\Auction\Model\Usuario;
+
 class Lance
 {
     /** @var Usuario */

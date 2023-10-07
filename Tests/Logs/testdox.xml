@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tests>
-  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testMaiorValor with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Maior valor with data set &quot;Leilão teste&quot;" status="0" time="0.1074482" size="-1" groups="default">
+  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testMaiorValor with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Maior valor with data set &quot;Leilão teste&quot;" status="0" time="0.0041424" size="-1" groups="default">
     <group name="default"/>
   </test>
-  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testMenorValor with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Menor valor with data set &quot;Leilão teste&quot;" status="0" time="0.0013981" size="-1" groups="default">
+  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testMenorValor with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Menor valor with data set &quot;Leilão teste&quot;" status="0" time="0.0013392" size="-1" groups="default">
     <group name="default"/>
   </test>
-  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testTresMaioresValores with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Tres maiores valores with data set &quot;Leilão teste&quot;" status="0" time="0.0022512" size="-1" groups="default">
+  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testTresMaioresValores with data set &quot;Leilão teste&quot;" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Tres maiores valores with data set &quot;Leilão teste&quot;" status="0" time="0.0015502" size="-1" groups="default">
     <group name="default"/>
   </test>
-  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testLeilaoSemLances" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Leilao sem lances" status="0" time="0.0313184" size="-1" groups="default">
+  <test className="Alura\Leilao\Tests\Service\AvaliadorTest" methodName="testLeilaoSemLances" prettifiedClassName="Avaliador (Alura\Leilao\Tests\Service\Avaliador)" prettifiedMethodName="Leilao sem lances" status="0" time="0.0006894" size="-1" groups="default">
     <group name="default"/>
   </test>
 </tests>
